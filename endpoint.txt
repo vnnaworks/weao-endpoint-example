@@ -1,1 +1,1 @@
-{"version": "v3", "rbxversion": "version-d6abc3b106a04c5c"}
+{"exploit_version": "v3", "supported_roblox_version": "version-d6abc3b106a04c5c", "changelog": "hi"}
