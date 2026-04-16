@@ -1,0 +1,10 @@
+Exploit addition requirements: 
+1. You must either have an official Discord server or website. 
+2. You must at minimum have 1000 real, active users of your exploit. Discord members, website visits, and total downloads do not apply.
+3. Reputation is taken very seriously, if you or your exploit has a questionable or unusual history, your application may be denied.
+4. If your exploit is an executor you must pass the sUNC test unless you are using a custom naming convention. (https://sunc.su)
+5. Your exploit cannot use a public API of another exploit .
+6. You may be asked to provide proof of ownership, activity, or user count.
+7. False, misleading, or unverifiable application information will result in denial.
+8. Meeting these requirements does not guarantee acceptance.
+9. Listed exploits may be denied or removed at our discretion if they no longer meet our standards.
